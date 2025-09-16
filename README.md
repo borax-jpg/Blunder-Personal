@@ -1,2 +1,2 @@
-# blunder stm 1 viral-Personal
+# blunder viral-Personal
 web
